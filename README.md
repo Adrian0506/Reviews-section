@@ -1,13 +1,8 @@
 # Project Name
 
 > Review Model
+> This is a static version of the project, so I can easily have this hosted without using a database. 
 
-## Related Projects
-
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
 
 ## Table of Contents
 
@@ -19,11 +14,7 @@
 
 > Some usage instructions
 npm install - installs dependencies 
-
 npm run start- starts up the server
-npm run dev- starts up webpack
-npm run seed- seeds database
-npm run delete - deletes database
 
 ## Requirements
 
